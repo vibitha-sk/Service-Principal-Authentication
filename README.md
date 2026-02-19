@@ -27,6 +27,7 @@ This project demonstrates how to authenticate with Azure CLI using a Service Pri
 ![cred](images/client_secret.png)
 
 #### Contributor Role
+![contributor access](images/contributor_role.png)
 
 #### Authentication Successfull
 ![authenticate CLI](images/authentication_successful.png)
